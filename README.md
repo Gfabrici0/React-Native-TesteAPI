@@ -1,1 +1,2 @@
-# Projeto ainda não finalizado, somente foi realizado o estudo de como utilizar uma Fake API rodando LocalHost
+# Projeto estudado na Alura
+Projeto ainda não finalizado, somente foi realizado o estudo de como utilizar uma Fake API rodando LocalHost
