@@ -23,7 +23,7 @@ export default function Repositorios({ route, navigation }) {
     }
 
     useEffect( async () => {
-        const resultado = await pegarRepositoriosDoUsuario(route.params.id);
+        const resultado = await pegarRepositoriosDoUsuario(route.params.login);
         setRepo(resultado);
     }, [estaNaTela])
 
